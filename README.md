@@ -7,7 +7,8 @@ I am an inspired developer proficient in developing responsive and intuitive web
 - [Air-agency](https://github.com/no4kar/Air-landing): Welcome to the online presence of ["Air"](https://no4kar.github.io/Air-landing/), your strategic partner in navigating the ever-evolving business landscape.
 - [B&O](https://github.com/no4kar/BandO-landing): Explore the ["BANG & OLUFSEN"](https://no4kar.github.io/BandO-landing/)” world, where innovation meets elegance in audio excellence.
 - [2048](https://github.com/no4kar/js_2048-game): – ["2048 game"](https://no4kar.github.io/js_2048-game/) implementation.
-- [Devices Catalog](https://github.com/no4kar/react_phone-catalog): – Search, favorite, and buy effortlessly with our [e-commerce platform](https://no4kar.github.io/react_phone-catalog/). Dive into detailed product descriptions, mark favoritesfor future reference, and easily add itemsto your cart.
+- [Devices Catalog](https://github.com/no4kar/react_phone-catalog): – Search, favorite, and buy effortlessly with our [e-commerce platform](https://no4kar.github.io/react_phone-catalog/). Dive into detailed product descriptions, mark favorites for future reference, and easily add items to your cart.
+- [Decorativka-team](https://github.com/no4kar/react-vite_decor-store): – Do you need to make repairs at home or in the office? [One Ukrainian company](https://no4kar.github.io/react-vite_decor-store/) can help you. It is not an advertisement just one of my projects.
 
 ### 📫 How to Reach Me
 - [bakhtiiar.asadov@gmail.com](bakhtiiar.asadov@gmail.com)
