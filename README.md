@@ -9,6 +9,8 @@ I am an inspired developer proficient in developing responsive and intuitive web
 - [2048](https://github.com/no4kar/js_2048-game): – ["2048 game"](https://no4kar.github.io/js_2048-game/) implementation.
 - [Devices Catalog](https://github.com/no4kar/react_phone-catalog): – Search, favorite, and buy effortlessly with our [e-commerce platform](https://no4kar.github.io/react_phone-catalog/). Dive into detailed product descriptions, mark favorites for future reference, and easily add items to your cart.
 - [Decorativka-team](https://github.com/no4kar/react-vite_decor-store): – Do you need to make repairs at home or in the office? [One Ukrainian company](https://no4kar.github.io/react-vite_decor-store/) can help you. It is not an advertisement😄 just one of my projects.
+- Task manager:
+- – [Back-end](https://github.com/no4kar/node_todos) with Node.js, Express, Swagger, Sequalize(SQLite3). Some tricks with JSDoc and TS(*.d.ts).
 
 ### 📫 How to Reach Me
 - [bakhtiiar.asadov@gmail.com](bakhtiiar.asadov@gmail.com)
