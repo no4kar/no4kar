@@ -11,7 +11,7 @@ I am an inspired developer proficient in developing responsive and intuitive web
 - [Decorativka-team](https://github.com/no4kar/react-vite_decor-store): – Do you need to make repairs at home or in the office? [One Ukrainian company](https://no4kar.github.io/react-vite_decor-store/) can help you. It is not an advertisement😄 just one of my projects.
 - Task manager:
   - [Front-end](https://github.com/no4kar/task-manager_react-vite) with React+Vite, Redux/Toolkit, TS, Tailwind, Axios.
-  - [Back-end](https://github.com/no4kar/node_todos) with Node.js, Express, Swagger, Sequalize(SQLite3). Some tricks with JSDoc and TS(*.d.ts).
+  - [Back-end](https://github.com/no4kar/node_todos) with Node.js, Express, Swagger, Passport(with Google), Sequalize(SQLite3). Some tricks with JSDoc and TS(*.d.ts).
 
 ### 📫 How to Reach Me
 - [bakhtiiar.asadov@gmail.com](bakhtiiar.asadov@gmail.com)
